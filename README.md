@@ -107,9 +107,32 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ## Screensavers
 
-### SS 1
+### SS V1.0
 
-_[Your description of screensaver 1]_
+3G's, tilt left, and shake are each bound to screen saver types tilt right still in development. 
+
+   #### 3G
+
+   ##### Rain
+
+rain generates 3 sprites and has them fall "Rain" down the screen.
+
+   #### Tilt Left
+
+   ##### Dots
+
+Dots generate random points on the x field at fixed points of the y. 
+
+   #### Shake
+
+   ##### Spin
+
+Spin animates a spining stick with random intervals.
+
+   #### Tilt Right
+
+   ##### Sped
+null
 
 ### SS 2 
 
